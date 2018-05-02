@@ -1,20 +1,11 @@
-// scripts.js
-
 var name = prompt('Enter your name');
 
-/*
-	comment alert
-*/
-
+//	first comment 
 
 alert('Hello, ' + name);
 
-/*
-	second comment 
-*/
+//	second comment 
 
 console.log('Hello, ' + name);
 
-/*
-	third comment 
-*/
+//	third comment 
