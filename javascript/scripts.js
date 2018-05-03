@@ -1,6 +1,6 @@
 var name = prompt('Enter your name');
 
-//	first comment 
+//alert('Hello, ' + name);
 
 alert('Hello, ' + name);
 
